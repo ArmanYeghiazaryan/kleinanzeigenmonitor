@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keine Berechtigung | 403</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/all.css"/>
+    <link rel="SHORTCUT ICON" href="/static/img/favicon.png" type="image/png"/>
+</head>
+<body class="l-docked">
+<header id="site-header">
+    <div id="site-header-top" class="l-page-wrapper">
+        <div id="site-logo">
+            <a href="/">
+                <img height="40" src="/static/img/common/logo/logo-ebayk-402x80.png" alt=""></a><br>
+            <span id="site-logo-claim" class="headline-small">Kostenlos. Einfach. Lokal.</span>
+        </div>
+    </div>
+
+    <div id="site-searchbar" class="a-green bar"></div>
+</header>
+<div class="l-page-wrapper ">
+    <div class="contentbox l-container-row">
+        <section class="outcomebox-error">
+            <header><h1 class="headline-medium">Keine Berechtigung</h1></header>
+            <div class="outcomebox--body">
+                <p>Du bist nicht berechtigt, diese Seite aufzurufen.</p>
+                </div>
+        </section>
+    </div>
+</div>
+</body>
+</html>
